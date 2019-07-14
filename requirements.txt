@@ -1,2 +1,2 @@
-discord.js
+discord.js (from -r / tmp / build_4febd459025395ce59277f465849801b /
 asyncio
